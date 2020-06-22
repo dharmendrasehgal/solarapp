@@ -30,7 +30,7 @@ export default class Panel extends React.PureComponent {
             let that = wrapper.rows[rowIndex].insertCell(colIndex);
             that.setAttribute('class','emptyCell');
             that.addEventListener("click", (e) => {
-              return this.handleEvent(e);
+              //return this.handleEvent(e);
             });
         }
     }
