@@ -11,6 +11,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
+  "homepage": "https://dharmendrasehgal.github.io/solarapp",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -31,7 +32,7 @@
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
-      "last 1 safari version"
+      "last `1 safari version"
     ]
   }
 }
